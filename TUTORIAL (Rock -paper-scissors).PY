@@ -1,5 +1,7 @@
 while True:
     import sys
+    # We import sys just just to exit 
+    # NOTE: you can use "exit()"
     import random
     """
     from enum import Enum
