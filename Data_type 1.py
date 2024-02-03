@@ -91,7 +91,7 @@ print(type(nums))
 mylist = list([1,"Neil",True])
 print(mylist)
 
-#Tuples
+#TUPLE
 mytuple = tuple(('Dave',42,True))
 anothertuple = (1,4,2,8,4)
 
